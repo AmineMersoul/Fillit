@@ -1,0 +1,9 @@
+.vscode
+.DS_Store
+/libft
+/get_next_line
+/examples
+tetriminos/*.a
+tetriminos/*.o
+main.c
+fillit.out
